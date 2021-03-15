@@ -12,5 +12,7 @@ public class LocalDateExample1 {
         System.out.println("Tommorow date: "+tomorrow);
         LocalDate r = LocalDate.now();
         System.out.println(r);
+
+        System.out.println("add the new line in that");
     }
 }
